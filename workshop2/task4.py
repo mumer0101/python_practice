@@ -11,6 +11,5 @@ def calculate_sum(*args):
     print(f"The sum is: {total}")
     return total
 
-# Test
 calculate_sum(1, 2, 3)
 calculate_sum(10, 20, 30, 40)
